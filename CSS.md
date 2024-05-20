@@ -1,0 +1,119 @@
+# Código CSS
+
+```
+body {
+    font-family: Finland;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    background: url('https://i.imgur.com/RnzjEhV.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.container {
+    display: none; /* Ocultar todos los contenedores por defecto */
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7); /* Fondo blanco semitransparente */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#welcomeContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 600px;
+    height: 90vh; /* Asegurar que ocupe toda la altura de la pantalla */
+}
+
+#mainContainer, #alphabetSection {
+    width: 80%;
+    max-width: 600px;
+}
+
+#alphabetSection {
+    display: none; /* Ocultar la sección del abecedario por defecto */
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    max-width: 600px;
+    height: 100vh; /* Asegurar que ocupe toda la altura de la pantalla */
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #A1A1FF; /* Azul */
+    border: none;
+    border-radius: 5px; /* Bordes redondos */
+    color: BLACK;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #A3CEEF; /* Un poco más oscuro al pasar el ratón */
+}
+
+input {
+    padding: 10px;
+    margin: 15px ;
+    font-size: 16px;
+    width: 80%;
+    max-width: 250px;
+}
+
+#output img, #alphabet img {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.logo {
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    body {
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 20px;
+        height: auto;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    button {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    input {
+        width: 90%;
+        font-size: 14px;
+    }
+
+    #output img, #alphabet img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+```
