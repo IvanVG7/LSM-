@@ -1,6 +1,3 @@
-# Código Javascript
-
-```
 document.addEventListener('DOMContentLoaded', function() {
     const welcomeContainer = document.getElementById('welcomeContainer');
     const mainContainer = document.getElementById('mainContainer');
