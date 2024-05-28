@@ -16,3 +16,7 @@ El desarrollo de una aplicación móvil para traducir el lenguaje de señas mexi
 ## Interfaz de bienvenida de Sign'n
 
 ![INTERFAZAPP](https://i.imgur.com/IZkhAuH.jpeg)
+
+![inicio](https://i.imgur.com/ToWZgml.png)
+
+
