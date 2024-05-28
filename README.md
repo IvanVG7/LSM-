@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/gLOEP0l.png) ![Name](https://p84.cooltext.com/Rendered/Cool%20Text%20-%20Signn%20459311619024572.png)
+![Logo](https://i.imgur.com/gLOEP0l.png) ![Name](https://p84.cooltext.com/Rendered/Cool%20Text%20-%20Signn%20459311724544541.png)
 
 # Sign'n - Traductor de lenguaje de señas
 
