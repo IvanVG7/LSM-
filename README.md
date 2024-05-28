@@ -1,3 +1,5 @@
+![Logo](https://i.imgur.com/gLOEP0l.png) ![Name](https://p84.cooltext.com/Rendered/Cool%20Text%20-%20Signn%20459311619024572.png)
+
 # Sign'n - Traductor de lenguaje de señas
 
 El desarrollo de una aplicación móvil para traducir el lenguaje de señas mexicano se escogió como proyecto para mejorar la inclusión y accesibilidad de las personas sordas, facilitando la comunicación entre ellas y los oyentes. Esta herramienta busca aumentar el conocimiento y la comprensión del lenguaje de señas en la población general, promoviendo la sensibilización sobre las necesidades de la comunidad sorda. Además, aprovecha la tecnología móvil para ofrecer una solución práctica y accesible, respondiendo a una demanda social importante y mejorando la calidad de vida de las personas sordas en sus interacciones diarias.
