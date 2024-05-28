@@ -1,0 +1,73 @@
+# Señas Generadas
+
+## Abecedario
+
+![a](https://i.imgur.com/bREklbs.jpeg)
+![a](https://i.imgur.com/aOVXeIP.jpg)
+![a](https://i.imgur.com/HBSkAnK.jpg)
+![a](https://i.imgur.com/EnkpJoN.jpg)
+![a](https://i.imgur.com/EfWa28q.jpg)
+![a](https://i.imgur.com/rN53xkV.jpg)
+![a](https://i.imgur.com/zYuVt80.jpg)
+![a](https://i.imgur.com/sHnIY7E.jpg)
+![a](https://i.imgur.com/sHnIY7E.jpg)
+![a](https://i.imgur.com/Xjo8GQz.jpg)
+![a](https://i.imgur.com/Xjo8GQz.jpg)
+![a](https://i.imgur.com/ClykS7P.jpg)
+![a](https://i.imgur.com/bHyYZtt.jpg)
+![a](https://i.imgur.com/TrhfqzS.jpg)
+![a](https://i.imgur.com/Tl58Ew2.jpg)
+![a](https://i.imgur.com/K9tMa0l.jpg)
+![a](https://i.imgur.com/NmXDe6G.jpg)
+![a](https://i.imgur.com/bmW3zQJ.jpg)
+![a](https://i.imgur.com/H4V7QCj.jpg)
+![a](https://i.imgur.com/H4V7QCj.jpg)
+![a](https://i.imgur.com/H4V7QCj.jpg)
+![a](https://i.imgur.com/gZdBx4R.jpg)
+![a](https://i.imgur.com/tWdEylW.jpg)
+![a](https://i.imgur.com/oQ7tBK9.jpg)
+![a](https://i.imgur.com/PW1mOnI.jpg)
+![a](https://i.imgur.com/43rzcZq.jpg)
+![a](https://i.imgur.com/CXZsd5o.jpg)
+![a](https://i.imgur.com/nIxVqJx.jpg)
+![a](https://i.imgur.com/ayL0Epd.jpg)
+![a](https://i.imgur.com/MjhHpc2.jpg)
+
+## Saludos y frases cortas
+
+![hola](https://i.imgur.com/cQxvEm0.png)
+![adios](https://i.imgur.com/JvzLeAZ.png)
+![buenos dias](https://i.imgur.com/NAk2b0Q.png)
+![buenas tardes](https://i.imgur.com/aNhr8Ri.png)
+![buenas noches](https://i.imgur.com/EdSn7qH.png)
+![como estas](https://i.imgur.com/3j5zcvm.png)
+![por favor](https://i.imgur.com/JXbzOA9.png)
+![gracias](https://i.imgur.com/9rNtb3J.png)
+![perdon](https://i.imgur.com/5Qc7Xma.png)
+![de nada](https://i.imgur.com/HzY7uz2.png)
+![cuidate](https://i.imgur.com/lZf0cmS.png)
+
+## Números
+
+![1](https://i.imgur.com/UQMNNV8.png)
+![2](https://i.imgur.com/1Busyh5.png)
+![3](https://i.imgur.com/vWwJG8Q.png)
+![4](https://i.imgur.com/PGBr5LQ.png)
+![5](https://i.imgur.com/H5lTifz.png)
+![6](https://i.imgur.com/26ux8aS.png)
+![7](https://i.imgur.com/yFf2Udr.png)
+![8](https://i.imgur.com/b172Yfx.png)
+![9](https://i.imgur.com/7vcmZpF.jpeg)
+![10](https://i.imgur.com/6EgMQgx.jpeg)
+![100](https://i.imgur.com/yuqyifI.jpeg)
+![1000](https://i.imgur.com/HMRKztm.jpeg)
+
+## Días de la semana
+
+![lunes](https://i.imgur.com/HrfCtfm.jpeg)
+![martes](https://i.imgur.com/QUpCM1e.jpeg)
+![miercoles](https://i.imgur.com/mVhjly3.jpeg)
+![jueves](https://i.imgur.com/hN85Dx9.jpeg)
+![viernes](https://i.imgur.com/4SjSI4H.jpeg)
+![sabado](https://i.imgur.com/cmJRCzu.jpeg)
+![domingo](https://i.imgur.com/hvhFxB8.jpeg)
